@@ -1,5 +1,5 @@
 # pikachu98
 
-pls check the above project for storing data in mongodb.
+pls check the above project for store data in mongodb and retrieve it using node.js and express.js.
 
 
